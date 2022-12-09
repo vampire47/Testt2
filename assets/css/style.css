@@ -38,6 +38,11 @@ body {
   padding-left: 120px;
 
 }
+.asdd{
+  text-align: center;
+  margin-left: 435px;
+
+}
 a {
   color: #009961;
   text-decoration: none;
@@ -49,6 +54,10 @@ a:hover {
 }
 h1{
   color: #ffff;
+}
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
 }
 h1,
 h2,
