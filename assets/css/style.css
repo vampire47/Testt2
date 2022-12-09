@@ -14,11 +14,11 @@ body {
 }
 .img-a1{
   /* max-width: 90%; */
-  margin-left: 126px;
+  /* margin-left: 126px; */
   margin-top: 88px;
   width: 400px;
   height: 550px;
-  text-align: right;
+  /* text-align: right; */
 }
 .img-fluid-all{
   max-width: 100%;
@@ -599,6 +599,14 @@ h6 {
     line-height: 24px;
     margin-bottom: 30px;
   }
+  .img-a1 {
+    /* max-width: 90%; */
+    /* margin-left: 126px; */
+    margin-top: 88px;
+    width: 400px;
+    height: 550px;
+    /* text-align: right; */
+}
 }
 
 @-webkit-keyframes pulsate-btn {
@@ -1503,6 +1511,13 @@ section {
   .breadcrumbs {
     margin-top: 63px;
   }
+  .img-a1 {
+    /* max-width: 90%; */
+    /* margin-left: 126px; */
+    width: 400px;
+    height: 550px;
+    /* text-align: right; */
+}
 }
 
 .breadcrumbs h2 {
