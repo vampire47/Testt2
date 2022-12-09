@@ -14,8 +14,15 @@ body {
 }
 .img-a1{
   /* max-width: 90%; */
+  margin-left: 126px;
+  margin-top: 88px;
   width: 400px;
   height: 550px;
+  text-align: right;
+}
+.img-fluid-all{
+  max-width: 100%;
+  height: 153px;
 }
 .p1,.p2,.p3{
   color: #009961;
